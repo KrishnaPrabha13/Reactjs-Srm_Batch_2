@@ -1,0 +1,32 @@
+{
+    "student": [
+      {
+        "id": 1,
+        "name": "Prabha",
+        "gender": "Female",
+        "age": "22",
+        "city": "Chennai"
+      },
+      {
+        "id": 2,
+        "name": "Mahe",
+        "gender": "Female",
+        "age": "32",
+        "city": "Pune"
+      },
+      {
+        "id": 3,
+        "name": "Ravi",
+        "gender": "Male",
+        "age": "42",
+        "city": "Banglore"
+      },
+      {
+        "id": 4,
+        "name": "Ram",
+        "gender": "Male",
+        "age": "62",
+        "city": "Mysore"
+      }
+    ]
+  }
