@@ -1,0 +1,80 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "sname": "Prabha",
+      "gender": "Female",
+      "age": "22",
+      "address": "Chennai",
+      "medium": "English"
+    },
+    {
+      "id": 2,
+      "sname": "Mahe",
+      "gender": "Female",
+      "age": "32",
+      "address": "Pune",
+      "medium": "Tamil"
+    },
+    {
+      "id": 3,
+      "sname": "Ravi",
+      "gender": "Male",
+      "age": "42",
+      "address": "Banglore",
+      "medium": "English"
+    },
+    {
+      "id": 4,
+      "sname": "Ram",
+      "gender": "Male",
+      "age": "62",
+      "address": "Mysore",
+      "medium": "English"
+    },
+    {
+      "id": 5,
+      "sname": "prabha",
+      "gender": "Female",
+      "age": "12",
+      "address": "Chennai",
+      "medium": "Tamil"
+    },
+    {
+      "sname": "uiu",
+      "gender": "Male",
+      "age": "46",
+      "address": "Chennai",
+      "medium": "Tamil",
+      "intext": false,
+      "id": 6
+    },
+    {
+      "sname": "",
+      "gender": -1,
+      "age": "",
+      "address": "",
+      "medium": -1,
+      "intext": false,
+      "id": 7
+    },
+    {
+      "sname": "dew",
+      "gender": "Male",
+      "age": "45",
+      "address": "Chennai",
+      "medium": "Engilsh",
+      "intext": false,
+      "id": 8
+    },
+    {
+      "sname": "dew",
+      "gender": "Male",
+      "age": "45",
+      "address": "Chennai",
+      "medium": "Engilsh",
+      "intext": true,
+      "id": 9
+    }
+  ]
+}
